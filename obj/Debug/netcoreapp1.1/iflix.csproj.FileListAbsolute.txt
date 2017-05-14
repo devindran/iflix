@@ -1,0 +1,16 @@
+/Developer/vscode/bin/Debug/netcoreapp1.1/iflix.deps.json
+/Developer/vscode/bin/Debug/netcoreapp1.1/iflix.runtimeconfig.json
+/Developer/vscode/bin/Debug/netcoreapp1.1/iflix.runtimeconfig.dev.json
+/Developer/vscode/bin/Debug/netcoreapp1.1/iflix.dll
+/Developer/vscode/bin/Debug/netcoreapp1.1/iflix.pdb
+/Developer/vscode/obj/Debug/netcoreapp1.1/iflix.AssemblyInfo.cs
+/Developer/vscode/obj/Debug/netcoreapp1.1/iflix.dll
+/Developer/vscode/obj/Debug/netcoreapp1.1/iflix.pdb
+/Developer/iflix/bin/Debug/netcoreapp1.1/iflix.deps.json
+/Developer/iflix/bin/Debug/netcoreapp1.1/iflix.runtimeconfig.json
+/Developer/iflix/bin/Debug/netcoreapp1.1/iflix.runtimeconfig.dev.json
+/Developer/iflix/bin/Debug/netcoreapp1.1/iflix.dll
+/Developer/iflix/bin/Debug/netcoreapp1.1/iflix.pdb
+/Developer/iflix/obj/Debug/netcoreapp1.1/iflix.AssemblyInfo.cs
+/Developer/iflix/obj/Debug/netcoreapp1.1/iflix.dll
+/Developer/iflix/obj/Debug/netcoreapp1.1/iflix.pdb
